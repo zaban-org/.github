@@ -8,4 +8,4 @@
 | Mail | N/A | [Resend](https://resend.com/emails) | [Logs](https://resend.com/logs)
 | DNS | N/A | [Cloudflare](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/codify.sh/dns/records) | [Logs](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/codify.sh/dns/analytics)
 | Stripe | N/A | [Stripe](https://dashboard.stripe.com/test/dashboard) | [Logs](https://dashboard.stripe.com/test/payments)
-| Tooling | [codify-sh/tooling](https://github.com/codify-sh/tooling) | N/A | N/A |
+| Billing | [codify-sh/tooling](https://github.com/codify-sh/tooling) | N/A | N/A |
