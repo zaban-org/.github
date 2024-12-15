@@ -1,6 +1,7 @@
 # Codify Services
 
-| Service  | Repository | Description |
+| Service  | Repository | Envoirnment |
 | -------- | ---------- | ----------- |
-| Codify     | [repo](https://github.com/codify-education/codify) | Web and API |
-| Platform | [repo](https://github.com/codify-education/platform) | Platform manages orchestration and deployments |
+| Core     | [repo](https://github.com/codify-sh/core) | Render |
+| Web | [repo](https://github.com/codify-sh/web) | Vercel |
+| Tooling | [repo](https://github.com/codify-sh/tooling) | N/A |
