@@ -1,4 +1,4 @@
-# Codify Services
+# Services
 
 | Service  | Repository | Deployment | Observability
 | -------- | ---------- | ----------- | -----------
