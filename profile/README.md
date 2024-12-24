@@ -9,4 +9,4 @@
 | [Database](https://edge.codify.sh) | [zaban-org/supabase](https://github.com/zaban-org/supabase) | [Supabase](https://supabase.com/dashboard/org/xfzzkbcscrfwttoidigy/usage) | [Logs](https://supabase.com/dashboard/project/ufebcvbnfoopvrssncfv/logs/explorer?q=select%0A++cast%28timestamp+as+datetime%29+as+timestamp%2C%0A++event_message%2C+metadata+%0Afrom+edge_logs+%0Alimit+100) | N/A
 | Billing | N/A | [Stripe](https://dashboard.stripe.com/test/dashboard) | [Logs](https://dashboard.stripe.com/test/payments) | N/A
 | Mail | N/A | [Resend](https://resend.com/emails) | [Logs](https://resend.com/logs) | N/A
-| DNS | N/A | [Cloudflare](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/codify.sh/dns/records) | [Logs](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/codify.sh/dns/analytics) | N/A |
+| DNS | N/A | [Cloudflare](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/codify.sh/dns/records) | [Logs](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/zaban.ai/analytics/traffic) | N/A |
