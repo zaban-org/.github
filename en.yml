@@ -3,3 +3,4 @@ b: "My name Jeff"
 ironman: "Maximum pulse"
 nested:
   key: "Login or register"
+  linkText: "<Link> Logout </link>"
