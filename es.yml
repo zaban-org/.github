@@ -1,6 +1,0 @@
-welcome-text: "¡Bienvenido!"
-b: "Me llamo Jeff"
-ironman: "Pulso máximo"
-nested:
-  key: "Iniciar sesión o registrarse"
-  linkText: "<Link> Cerrar sesión </Link>"
