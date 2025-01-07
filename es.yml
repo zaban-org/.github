@@ -1,6 +1,10 @@
 welcome-text: "¡Bienvenido!"
-b: "Me llamo Jeff"
-ironman: "Pulso máximo"
-nested:
-  key: "Iniciar sesión o registrarse"
-  linkText: "<Link> Cerrar sesión </Link>"
+customer:
+  login: "Iniciar sesión"
+  register: "Registrarse"
+  logout: "Cerrar sesión"
+privacy:
+  non-eu:
+    policy: "Sus datos pueden ser utilizados con el propósito de proporcionarle el mejor servicio posible y mejorar nuestros productos y servicios."
+  eu:
+    policy: "Sus datos no serán compartidos con ningún servicio de terceros sin su consentimiento explícito."
