@@ -1,6 +1,10 @@
 welcome-text: "Welcome!"
-b: "My name Jeff"
-ironman: "Maximum pulse"
-nested:
-  key: "Login or register"
-  linkText: "<Link> Logout </Link>"
+customer:
+  login: "Login"
+  register: "Register"
+  logout: "Logout"
+privacy:
+  non-eu:
+    policy: "Your data may be used for the purposes of providing you with the best possible service and to improve our products and services."
+  eu:
+    policy: "Your data will not be shared with any third party services without explicit consent."
