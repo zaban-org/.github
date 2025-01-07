@@ -1,6 +1,6 @@
 welcome-text: "Bienvenue!"
 b: "Mon nom est Jeff"
-ironman: "Pouls maximum"
+ironman: "Fréquence cardiaque maximale"
 nested:
   key: "Se connecter ou s'inscrire"
   linkText: "<Link> Déconnexion </Link>"
