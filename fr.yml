@@ -1,0 +1,6 @@
+welcome-text: "Bienvenue!"
+customer:
+  login: "Connexion"
+  register: "S'inscrire"
+  logout: "Déconnexion"
+  account: "Compte"

@@ -1,0 +1,6 @@
+welcome-text: "¡Bienvenido!"
+customer:
+  login: "Iniciar sesión"
+  register: "Registrarse"
+  logout: "Cerrar sesión"
+  account: "Cuenta"
