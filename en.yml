@@ -3,3 +3,4 @@ customer:
   login: "Login"
   register: "Register"
   logout: "Logout"
+  account: "Account"
