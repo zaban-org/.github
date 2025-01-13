@@ -4,4 +4,4 @@ customer:
   register: "Register"
   logout: "Logout"
   account: "Account"
-  
+home: "Home"
