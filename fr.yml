@@ -4,3 +4,4 @@ customer:
   register: "S'inscrire"
   logout: "Déconnexion"
   account: "Compte"
+home: "Accueil"

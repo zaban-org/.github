@@ -4,3 +4,4 @@ customer:
   register: "Registrarse"
   logout: "Cerrar sesión"
   account: "Cuenta"
+home: "Inicio"
