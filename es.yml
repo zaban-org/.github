@@ -1,0 +1,10 @@
+welcome-text: "¡Bienvenido!"
+customer:
+  login: "Iniciar sesión"
+  register: "Registrarse"
+  logout: "Cerrar sesión"
+privacy:
+  non-eu:
+    policy: "Sus datos pueden ser utilizados con el propósito de proporcionarle el mejor servicio posible y mejorar nuestros productos y servicios."
+  eu:
+    policy: "Sus datos no se compartirán con ningún servicio de terceros sin su consentimiento explícito."
