@@ -1,0 +1,12 @@
+welcome-text: "Benvenuto!"
+customer:
+  login: "Accesso"
+  register: "Registrati"
+  logout: "Disconnetti"
+account: "Account"
+home: "Home"
+privacy:
+  non-eu:
+    policy: "I tuoi dati possono essere utilizzati per fornire il miglior servizio possibile e per migliorare i nostri prodotti e servizi."
+   eu:
+    policy: "I tuoi dati non saranno condivisi con servizi di terze parti senza esplicito consenso."

@@ -3,10 +3,10 @@ customer:
   login: "Iniciar sesión"
   register: "Registrarse"
   logout: "Cerrar sesión"
-  account: "Cuenta"
+account: "Cuenta"
 home: "Inicio"
 privacy:
   non-eu:
-    policy: "Sus datos pueden ser utilizados con el propósito de proporcionarle el mejor servicio posible y mejorar nuestros productos y servicios."
-  eu:
-    policy: "Sus datos no serán compartidos con ningún servicio de terceros sin su consentimiento explícito."
+    policy: "Sus datos pueden ser utilizados con el propósito de brindarle el mejor servicio posible y mejorar nuestros productos y servicios."
+   eu:
+    policy: "Tus datos no se compartirán con ningún servicio de terceros sin consentimiento explícito."
