@@ -9,5 +9,5 @@
 | GitHub App | [zaban-org/settings/apps](https://github.com/organizations/zaban-org/settings/apps) | [github.com/apps/zaban-ai](https://github.com/apps/zaban-ai/installations/select_target) | 
 | Billing |  | [dashboard.stripe.com](https://dashboard.stripe.com/test/dashboard) | [Logs](https://dashboard.stripe.com/test/payments) 
 | DNS |  | [dash.cloudflare.com](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/zaban.ai/dns/records) | [Logs](https://dash.cloudflare.com/3fdc57d9c28cf7f48aac59bb47c02b0b/zaban.ai/analytics/traffic) | 
-| Mail |  | [resend.com](https://resend.com/emails) | [Logs](https://resend.com/logs) 
+| Mail | [zaban-org/dev/tree/main/emails](https://github.com/zaban-org/dev/tree/main/emails) | [resend.com](https://resend.com/emails) | [Logs](https://resend.com/logs) 
 | Dev | [zaban-org/dev](https://github.com/zaban-org/dev) |
