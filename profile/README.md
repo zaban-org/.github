@@ -3,8 +3,7 @@
 
 | Service  | Repository | Deployment | Observability 
 | -------- | ---------- | ----------- | ----------- 
-| Web [zaban.ai](https://zaban.ai) | [zaban-org/web](https://github.com/zaban-org/web) | [cloud.zaban.ai](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/jgcco884c8gc0co0w4gc0sks/deployment) | [Logs](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/jgcco884c8gc0co0w4gc0sks/logs) 
-| Core [api.zaban.ai](https://api.zaban.ai) | [zaban-org/core](https://github.com/zaban-org/core) | [cloud.zaban.ai](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/gcwgksc0gws84c4c88soggs4/deployment) | [Logs](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/gcwgksc0gws84c4c88soggs4/logs) 
+| Zaban [zaban.ai](https://zaban.ai) | [zaban-org/zaban](https://github.com/zaban-org/zaban) | [cloud.zaban.ai](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/jgcco884c8gc0co0w4gc0sks/deployment) | [Logs](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/application/jgcco884c8gc0co0w4gc0sks/logs) 
 | Database [db.zaban.ai](https://db.zaban.ai) | [zaban-org/supabase](https://github.com/zaban-org/supabase) | [cloud.zaban.ai](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/service/k0so0s4wkko08k4oo8c0sckw) | [Logs](https://cloud.zaban.ai/project/swkkggc04kgccw8g8osokscc/beta/service/k0so0s4wkko08k4oo8c0sckw#logs) 
 | GitHub App | [zaban-org/settings/apps](https://github.com/organizations/zaban-org/settings/apps) | [github.com/apps/zaban-ai](https://github.com/apps/zaban-ai/installations/select_target) | 
 | Billing |  | [dashboard.stripe.com](https://dashboard.stripe.com/test/dashboard) | [Logs](https://dashboard.stripe.com/test/payments) 
